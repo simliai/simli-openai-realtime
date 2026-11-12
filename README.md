@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is archived.** It was built for an earlier version of the Simli API and SDK, and is no longer maintained or guaranteed to work. Some of its code puts API keys in the browser, so don't deploy it.
+>
+> Start from a current starter instead: [all Simli starters](https://docs.simli.com/api-reference/samples/all-samples) (LiveKit Agents, Pipecat, ElevenLabs, OpenAI Realtime, Vapi). Or give your coding agent Simli in one command: `npx skills add simliai/skills`.
+
 https://www.youtube.com/watch?v=Vi-jybt-KTg
 ![Screenshot 2024-10-08 105808](https://github.com/user-attachments/assets/fbd280d9-62ca-477e-bd4c-1ce461e5f9eb)
 
